@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Alex. I'm a frontend developer with a bit of backend experience.
+I love to create cool stuff!
+
 <!--
 **Alex-Archer-I/Alex-Archer-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
