@@ -3,6 +3,14 @@
 My name is Alex. I'm a frontend developer with a bit of backend experience.
 I love to create cool stuff!
 
+Currently I works with:
+- HTML
+- CSS
+- JS
+- React
+
+My next steps in codeland will be C# and to study computer science.
+
 <!--
 **Alex-Archer-I/Alex-Archer-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
