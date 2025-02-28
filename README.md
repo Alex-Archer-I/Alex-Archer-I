@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 My name is Alex. I'm a frontend developer with a bit of backend experience.
-I love to create cool stuff!
+I love to create cool and useful interfaces!
 
 Currently I works with:
 - HTML
 - CSS
-- JS
+- JavaScript
+- Typescript
 - React
-
-My next steps in codeland will be C# and to study computer science.
+- Redux Tool Kit
 
 Repos started with FM are projects from the [Frontend Mentor](https://www.frontendmentor.io/).
 
